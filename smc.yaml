@@ -1,0 +1,10 @@
+path: data
+train: images/train
+val: images/val
+
+names:
+  0: order_block
+  1: liquidity
+  2: fair_value_gap
+  3: stop_loss
+  4: take_profit
